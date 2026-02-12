@@ -1,51 +1,76 @@
 # IT Support Portfolio – Monica Leiva
 
-## About This Repository
+## 👩‍💻 About Me
 
-This repository contains simulated IT Support documentation and real-world scenario exercises.
+Junior IT Support professional transitioning from an Administration and Business background into IT and Networking.
 
-The goal of this project is to demonstrate my technical knowledge, structured troubleshooting approach, and understanding of IT operations in small to medium business environments.
+I hold an Advanced Diploma in Network Telecommunication Engineering and have hands-on experience in troubleshooting, documentation, and network fundamentals.
 
----
-
-## Professional Background
-
-I have a background in Administration and Business, and I am transitioning into IT Support and Networking.
-
-I completed an Advanced Diploma in Network Telecommunication Engineering and have hands-on experience with:
-
-- Cisco Packet Tracer
-- Basic routing and switching
-- IP addressing and subnetting
-- Network troubleshooting
-- Microsoft 365 concepts
-- IT onboarding workflows
-- Security best practices
+This repository showcases simulated real-world IT Support scenarios designed to reflect daily helpdesk operations in small to medium business environments.
 
 ---
 
-## Projects Included
+## 🛠 Technical Skills
 
-- IT Onboarding Process (Small Company Simulation)
-- Network Troubleshooting Scenarios
-- Password Reset & Account Lockout Procedure
-- Basic Incident Response Simulation
+### Operating Systems & Support
+- Windows 10/11 troubleshooting  
+- Printer and driver management  
+- Blue Screen (BSOD) diagnostics  
+- Password reset & user support scenarios  
 
-Each document is structured to reflect real IT Support workflows.
+### Networking
+- IP addressing & subnetting  
+- DNS and basic routing concepts  
+- Cisco Packet Tracer labs  
+- Network troubleshooting methodology  
+- ipconfig, ping, tracert diagnostics  
+
+### Security & IT Operations
+- MFA and basic security practices  
+- Least privilege principles  
+- User onboarding simulation  
+- Incident documentation  
+
+### Tools
+- Git & GitHub for documentation  
+- VS Code  
+- Microsoft 365 fundamentals  
 
 ---
 
-## Technical Skills Demonstrated
+## 📂 Projects Included
 
-- Structured troubleshooting methodology
-- Basic networking (IP configuration, DNS, routing concepts)
-- Security awareness (MFA, least privilege)
-- Documentation and process writing
-- Problem-solving mindset
+### 🖥 Windows Troubleshooting
+Structured troubleshooting scenarios including:
+- No internet connection  
+- Audio not working  
+- Printer issues  
+- Blue screen simulation  
+
+### 🎫 Helpdesk Ticket Simulations
+Simulated real support tickets including:
+- Email login issues  
+- Password reset procedures  
+- Network connectivity incidents  
+
+### 🏢 IT Onboarding Process
+Step-by-step onboarding workflow for a small company, including:
+- Account setup  
+- Security configuration  
+- Equipment provisioning  
 
 ---
 
-## Career Objective
+## 🧠 What This Portfolio Demonstrates
 
-Currently seeking entry-level IT Support / Helpdesk opportunities where I can contribute, learn, and grow within a technical environment.
+- Structured troubleshooting methodology  
+- Clear technical documentation  
+- Understanding of IT Support workflows  
+- Networking fundamentals  
+- Problem-solving mindset  
 
+---
+
+## 🎯 Career Objective
+
+Currently seeking entry-level IT Support / Helpdesk opportunities where I can contribute to daily operations, support end users, and continue developing my technical expertise in networking and systems support.
