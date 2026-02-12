@@ -1,111 +1,51 @@
-# IT Onboarding Process – Small Company Simulation
+# IT Support Portfolio – Monica Leiva
 
-## Scenario
+## About This Repository
 
-A new employee joins a small company (25–50 employees).  
-The IT Support role is responsible for setting up system access, email, and workstation configuration.
+This repository contains simulated IT Support documentation and real-world scenario exercises.
 
----
-
-## Step 1 – Receive Request
-
-- HR submits onboarding request.
-- Confirm:
-  - Full name
-  - Job title
-  - Department
-  - Start date
-  - Required system access
+The goal of this project is to demonstrate my technical knowledge, structured troubleshooting approach, and understanding of IT operations in small to medium business environments.
 
 ---
 
-## Step 2 – Create User Account
+## Professional Background
 
-Environment: Microsoft 365 (cloud-based setup)
+I have a background in Administration and Business, and I am transitioning into IT Support and Networking.
 
-Actions:
-- Create new user account
-- Assign company email address
-- Set temporary password
-- Enable Multi-Factor Authentication (MFA)
+I completed an Advanced Diploma in Network Telecommunication Engineering and have hands-on experience with:
 
-Security Check:
-- Confirm correct spelling of email
-- Verify role-based access requirements
-
----
-
-## Step 3 – Assign Licenses
-
-- Assign Microsoft 365 license
-- Confirm mailbox provisioning
-- Verify Teams and OneDrive activation
+- Cisco Packet Tracer
+- Basic routing and switching
+- IP addressing and subnetting
+- Network troubleshooting
+- Microsoft 365 concepts
+- IT onboarding workflows
+- Security best practices
 
 ---
 
-## Step 4 – Access & Permissions
+## Projects Included
 
-- Add user to relevant groups (if applicable)
-- Grant shared mailbox access (if required)
-- Configure shared folder permissions
+- IT Onboarding Process (Small Company Simulation)
+- Network Troubleshooting Scenarios
+- Password Reset & Account Lockout Procedure
+- Basic Incident Response Simulation
 
-Principle Applied:
-- Least privilege access (user only receives access necessary for their role)
-
----
-
-## Step 5 – Workstation Setup
-
-If device is new:
-
-- Create local user profile
-- Install required software:
-  - Microsoft Office
-  - Browser
-  - VPN (if remote work)
-- Configure Outlook
-- Verify printer access (if applicable)
-
-If reassigning device:
-
-- Remove previous user data
-- Ensure system updates are installed
-- Confirm antivirus is active
+Each document is structured to reflect real IT Support workflows.
 
 ---
 
-## Step 6 – Connectivity & Testing
+## Technical Skills Demonstrated
 
-- Test email login
-- Test Teams access
-- Confirm internet connectivity
-- Verify shared drive access
-
----
-
-## Step 7 – Documentation & Ticket Closure
-
-- Document all actions taken
-- Confirm employee received credentials
-- Mark ticket as resolved
-- Notify HR of completion
+- Structured troubleshooting methodology
+- Basic networking (IP configuration, DNS, routing concepts)
+- Security awareness (MFA, least privilege)
+- Documentation and process writing
+- Problem-solving mindset
 
 ---
 
-## Risks Considered
+## Career Objective
 
-- Incorrect permission assignment
-- Missing MFA configuration
-- Delayed license activation
-- Data exposure from reused devices
-
----
-
-## Skills Demonstrated
-
-- IT Support workflow
-- Microsoft 365 user management (conceptual)
-- Security awareness
-- Structured troubleshooting
-- Process documentation
+Currently seeking entry-level IT Support / Helpdesk opportunities where I can contribute, learn, and grow within a technical environment.
 
